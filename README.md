@@ -20,7 +20,7 @@ orders, customers, and regional performance.
 
 ## Quick Start
 
-```bash
+bash
 cp .env.example .env
 docker compose up -d
 pip install -r requirements.txt
