@@ -48,7 +48,8 @@ sales-revenue-analytics/
 │  └─ seeds/
 │     └─ seed_from_csv.sql           # optional helper
 ├─ src/
-│  ├─ generate_data.py               # generate realistic raw dataset
+│  ├─ generate_data.py               # <img width="640" height="480" 
+generate realistic raw dataset
 │  ├─ etl_clean.py                   # clean + validate data
 │  ├─ load_to_postgres.py            # load cleaned data to Postgres
 │  └─ kpi_queries.py                 # reusable KPI SQL
@@ -58,3 +59,6 @@ sales-revenue-analytics/
 └─ tests/
    └─ test_quality.py                # data quality checks
 '''
+
+
+
